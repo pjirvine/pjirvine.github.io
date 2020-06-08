@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-UK"
+title                    : "Dr. Pete Irvine"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Peter Irvine"
+description              : &description "Lecturer at UCL Earth Sciences focusing on evaluating the potential, limits and risks of solar geoengineering, as well as its broader implications."
+url                      : https://pjirvine.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/pjirvine/pjirvine.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Dr. Pete Irvine"
+  avatar           : "profile_20_square.JPG"
+  bio              : "Lecturer at UCL Earth Sciences focusing on evaluating the potential, limits and risks of solar geoengineering, as well as its broader implications."
+  location         : "London, UK"
+  employer         : "UCL Earth Sciences"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=7asLSCEAAAAJ&hl=en"
+  email            : "p.irvine@ucl.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Peter_Irvine"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : "https://profiles.impactstory.org/u/0000-0002-5469-1543"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/peter-irvine-73668946/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@peteirvine"
   vine             :
   weibo            :
   xing             :
