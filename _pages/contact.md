@@ -1,6 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
+description: "Contact details for Peter Irvine, Lecturer at UCL Earth Sciences, Solar Geoengineering Researcher."
 author_profile: true
 ---
 
