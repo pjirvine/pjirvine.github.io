@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
+description: "Dr. Peter Irvine, Lecturer at UCL Earth Sciences, Solar Geoengineering Researcher"
 author_profile: true
 ---
 

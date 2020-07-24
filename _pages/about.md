@@ -2,6 +2,7 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
+description: "Dr. Peter Irvine, Lecturer at UCL Earth Sciences, Solar Geoengineering Researcher"
 author_profile: true
 redirect_from:
   - /about/
