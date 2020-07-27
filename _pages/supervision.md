@@ -12,6 +12,9 @@ I supervise master's students at UCL through the MSc programs offered by Earth S
 
 ## PhD Students
 
+Current Openings:
+* NERC DTP project: [The aridity, drought and biodiversity impacts of solar geoengineering](https://london-nerc-dtp.org/2019/09/25/the-aridity-drought-and-biodiversity-impacts-of-solar-geoengineering/).
+
 If you are interested in working with me, feel free to contact me by email to discuss opportunities at UCL. When getting in touch, please make sure to highlight your research interests and how these align with my own based on my publications.
 
 To get details on the application process for PhDs at UCL, see [this page](https://www.ucl.ac.uk/prospective-students/graduate/applying-graduate-study/what-you-need-complete-application). You can also find tips on writing a convincing research statement on [this page](https://www.ucl.ac.uk/prospective-students/graduate/sites/prospective-students_graduate/files/potential-supervisor.pdf).
