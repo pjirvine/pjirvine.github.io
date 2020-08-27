@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am interested how human actions transform the Earth and how humanity can learn to manage this transformation. My research to date has focused on solar geoengineering, a proposal to directly alter the Earth’s energy budget to offset the warming effect of greenhouse gases.
+I am interested in how human actions transform the Earth and how humanity can learn to manage this transformation. My research to date has focused on solar geoengineering, a proposal to directly alter the Earth’s energy budget to offset the warming effect of greenhouse gases.
 
 My research has 3 broad strands:
 - I work with climate and Earth system models to understand the potential impacts of climate change and solar geoengineering, e.g. on the terrestrial hydrological cycle and on sea-level rise.

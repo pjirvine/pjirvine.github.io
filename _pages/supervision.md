@@ -13,7 +13,7 @@ I supervise master's students at UCL through the MSc programs offered by Earth S
 ## PhD Students
 
 Current Openings:
-* NERC DTP project: [The aridity, drought and biodiversity impacts of solar geoengineering](https://london-nerc-dtp.org/2019/09/25/the-aridity-drought-and-biodiversity-impacts-of-solar-geoengineering/).
+* NERC DTP project: [Using machine learning to predict the response to solar geoengineering](https://london-nerc-dtp.org/2020/07/27/using-machine-learning-to-predict-the-response-to-solar-geoengineering/).
 
 If you are interested in working with me, feel free to contact me by email to discuss opportunities at UCL. When getting in touch, please make sure to highlight your research interests and how these align with my own based on my publications.
 
