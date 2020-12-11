@@ -4,7 +4,11 @@ permalink: /supervision/
 author_profile: true
 ---
 
-I am accepting new students to work with me on a range of projects related to climate change and solar geoengineering. I am also open to collaborating with post-docs, though I have no funded positions available at present.
+Applications to the @London_NERC_DTP are now open!
+24 positions are available, starting in September 2021. https://london-nerc-dtp.org/apply-to-the-london-nerc-dtp/
+If you wanted to do a PhD with me on solar geoengineering at UCL, this is the route to take though 1st choice of project is not guaranteed.
+
+I am also open to collaborating with post-docs, though I have no funded positions available at present.
 
 ## MSc Students
 
