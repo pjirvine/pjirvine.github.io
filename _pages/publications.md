@@ -8,8 +8,9 @@ author_profile: true
 This page contains all my publications; for more details, see my [Google Scholar profile](https://scholar.google.com/citations?user=7asLSCEAAAAJ&hl=en). Article PDFs or preprint PDFs for all articles are linked below. To get a copy of the final article pdf of any preprint, please contact me directly.
 
 ## Peer-reviewed Articles
-
-* [***Da-Allada C.Y. et al. (2020)***](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EF001595), ‘Changes in West African Summer Monsoon Precipitation under Stratospheric Aerosol Geoengineering’, Earth’s Future, TBD
+* [***Dai Z. et al. (2021)***](https://www.nature.com/articles/s41599-020-00694-6), ‘Elicitation of US and Chinese expert judgments show consistent views on solar geoengineering’, Humanities and Social Sciences Communications, 8 (18)
+* [***Fettweis X. et al. (2021)***](https://tc.copernicus.org/preprints/tc-2020-347/), ‘Brief Communication: Reduction of the future Greenland ice sheet surface melt with the help of solar geoengineering’, The Cryosphere Discussions, TBD
+* [***Da-Allada C.Y. et al. (2020)***](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EF001595), ‘Changes in West African Summer Monsoon Precipitation under Stratospheric Aerosol Geoengineering’, Earth’s Future, 8 (7)
 * [***Irvine P.J. and Keith, D.W. (2020)***](https://iopscience.iop.org/article/10.1088/1748-9326/ab76de?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosfutureofwork&stream=future), ‘Halving warming with stratospheric aerosol geoengineering moderates policy-relevant climate hazards’, Environmental Research Letters, 15, 044011 [(***article pdf***)](https://pjirvine.github.io/files/Irvine_Keith_ERL_2020.pdf)
 * [***Macmartin, D.G. et al. (2019)***](https://doi.org/10.1080/14693062.2019.1668347), ‘Technical characteristics of solar geoengineering deployment and implications for governance’, Climate Policy, 19 (10), 1325-1339 [(***preprint***)](https://pjirvine.github.io/files/MacMartin_et_al_CP_2019.pdf)
 * [***Irvine P.J. et al. (2019)***](https://www.nature.com/articles/s41558-019-0398-8), ‘Halving warming with idealized solar geoengineering moderates key climate hazards in all regions’, Nature Climate Change, 9, 295-299 [(***preprint***)](https://pjirvine.github.io/files/Irvine_et_al_NCC_2019.pdf)

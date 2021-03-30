@@ -9,6 +9,7 @@ This page contains a list of all my talks and presentations. For a pdf of any pr
 
 ## Invited talks
 
+* ‘Solar geoengineering: an emerging scientific and political challenge’ (Webinar), European Space Agency, 22nd January 2021
 * ‘Stratospheric Aerosol Geoengineering: Hypotheses and Uncertainties’ (Webinar), Atmospheric, Oceanic and Planetary Physics Department, Oxford University, UK, 18th June 2020
 * ‘Could solar geoengineering moderate the impacts of climate change?’, Max Planck Institute for Meteorology, Hamburg, Germany, 15th May 2018
 * 3 Lectures for the Princeton Climate Engineering Symposium, Princeton University, Princeton, USA, 28th-30th August 2017
