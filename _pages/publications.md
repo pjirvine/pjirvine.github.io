@@ -7,10 +7,15 @@ author_profile: true
 
 This page contains all my publications; for more details, see my [Google Scholar profile](https://scholar.google.com/citations?user=7asLSCEAAAAJ&hl=en). Article PDFs or preprint PDFs for all articles are linked below. To get a copy of the final article pdf of any preprint, please contact me directly.
 
-## Peer-reviewed Articles
+## Latest work
+* [***Irvine, P.J. and Keith, D.W. (2021)***](https://policyexchange.org.uk/the-us-cant-go-it-alone-on-solar-geoengineering/), 'The US Can't Go it Alone on Solar Geoengineering', Environmental Affairs, 13th April 2021
+* [***Irvine, P.J. et al. (2021, preprint)***](https://eartharxiv.org/repository/view/2307/), 'Expert judgements on solar geoengineering research priorities and challenges', EarthArxiv, preprint [(***article pdf***)](https://pjirvine.github.io/files/Irvine_et_al_EarthArxiv_2021.pdf)
 * [***Dai Z. et al. (2021)***](https://www.nature.com/articles/s41599-020-00694-6), ‘Elicitation of US and Chinese expert judgments show consistent views on solar geoengineering’, Humanities and Social Sciences Communications, 8 (18)
+
+## Peer-reviewed Articles
+* [***Dai Z. et al. (2021)***](https://www.nature.com/articles/s41599-020-00694-6), ‘Elicitation of US and Chinese expert judgments show consistent views on solar geoengineering’, Humanities and Social Sciences Communications, 8 (18) [(***article pdf***)](https://pjirvine.github.io/files/Dai_et al_NatureComms_2021.pdf)
 * [***Fettweis X. et al. (2021)***](https://tc.copernicus.org/preprints/tc-2020-347/), ‘Brief Communication: Reduction of the future Greenland ice sheet surface melt with the help of solar geoengineering’, The Cryosphere Discussions, TBD
-* [***Da-Allada C.Y. et al. (2020)***](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EF001595), ‘Changes in West African Summer Monsoon Precipitation under Stratospheric Aerosol Geoengineering’, Earth’s Future, 8 (7)
+* [***Da-Allada C.Y. et al. (2020)***](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020EF001595), ‘Changes in West African Summer Monsoon Precipitation under Stratospheric Aerosol Geoengineering’, Earth’s Future, 8 (7) [(***article pdf***)](https://pjirvine.github.io/files/Da-Allada_et_al_EF_2021.pdf)
 * [***Irvine P.J. and Keith, D.W. (2020)***](https://iopscience.iop.org/article/10.1088/1748-9326/ab76de?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosfutureofwork&stream=future), ‘Halving warming with stratospheric aerosol geoengineering moderates policy-relevant climate hazards’, Environmental Research Letters, 15, 044011 [(***article pdf***)](https://pjirvine.github.io/files/Irvine_Keith_ERL_2020.pdf)
 * [***Macmartin, D.G. et al. (2019)***](https://doi.org/10.1080/14693062.2019.1668347), ‘Technical characteristics of solar geoengineering deployment and implications for governance’, Climate Policy, 19 (10), 1325-1339 [(***preprint***)](https://pjirvine.github.io/files/MacMartin_et_al_CP_2019.pdf)
 * [***Irvine P.J. et al. (2019)***](https://www.nature.com/articles/s41558-019-0398-8), ‘Halving warming with idealized solar geoengineering moderates key climate hazards in all regions’, Nature Climate Change, 9, 295-299 [(***preprint***)](https://pjirvine.github.io/files/Irvine_et_al_NCC_2019.pdf)
@@ -45,6 +50,8 @@ This page contains all my publications; for more details, see my [Google Scholar
 * [***Singarayer, J. S., A. Ridgwell, and P.J. Irvine (2009)***](https://iopscience.iop.org/article/10.1088/1748-9326/4/4/045110), ‘Assessing the benefits of crop albedo bio-geoengineering’, Environmental Research Letters 4, 045110 [(***article pdf***)](https://pjirvine.github.io/files/Singarayer_et_al_ERL_2009.pdf)
 
 ## Comments, blog posts, and other non-peer-reviewed articles
+* [***Irvine, P.J. and Keith, D.W. (2021)***](https://policyexchange.org.uk/the-us-cant-go-it-alone-on-solar-geoengineering/), 'The US Can't Go it Alone on Solar Geoengineering', Environmental Affairs, 13th April 2021
+* [***Irvine, P.J. et al. (2021, preprint)***](https://eartharxiv.org/repository/view/2307/), 'Expert judgements on solar geoengineering research priorities and challenges', EarthArxiv, preprint [(***article pdf***)](https://pjirvine.github.io/files/Irvine_et_al_EarthArxiv_2021.pdf)
 * [***Burns, E. et al. (2019)***](https://www.belfercenter.org/publication/technology-factsheet-solar-geoengineering), 'Technology Factsheet: Solar Geoengineering', Belfer Center for Science and International Affairs, Harvard Kennedy School [(***article pdf***)](https://pjirvine.github.io/files/Burns_et_al_tech_fact_sheet_2019.pdf)
 * [***Irvine, P.J. and D.W. Keith (2019)***](https://heep.hks.harvard.edu/files/heep/files/sg_technical_summary_for_policy_workshop_final.pdf), 'The Science and Technology of Solar Geoengineering: A Compact Summary', Governance of the Deployment of Solar Geoengineering, Harvard Project on Climate Agreements, 19-25 [(***full report pdf***)](https://pjirvine.github.io/files/Irvine_Keith_compact_summary_2019.pdf)
 * [***Burns E. et al. (2019)***](https://geoengineering.environment.harvard.edu/blog/zotero), ‘Solar geoengineering research Zotero library’, Harvard’s Solar Geoengineering Research Blog
